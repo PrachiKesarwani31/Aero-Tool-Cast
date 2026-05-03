@@ -134,5 +134,4 @@ Built as a self-directed project to understand demand forecasting and resource a
 ## 👩‍💻 Author
 
 **Prachi**  
-B.Tech, MNNIT Allahabad  
-Incoming Associate Analyst — United Airlines
+
